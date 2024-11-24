@@ -7,6 +7,7 @@ function AboutUs(){
         <p>Welcome to react classes..</p>
             <p>This is changed in git hub..</p>
             <p>this is changed in vsc code</p>
+            <p>updated in clone project</p>
         </>
     )
 }
